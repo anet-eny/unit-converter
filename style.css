@@ -34,6 +34,16 @@ h1 {
     margin: 30px 0 30px 0;
 }
 
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active{
+    -webkit-box-shadow: 0 0 0 50px #6943FF inset;
+}
+input:-webkit-autofill{
+    -webkit-text-fill-color: white;
+}
+
 #input-btn {
     width: 117px;
     height: 42px;
