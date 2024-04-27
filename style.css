@@ -1,12 +1,12 @@
 body {
     margin: 0;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family: Inter;
 }
 
 h1 {
     color: white;
     font-size: 28px;
-    font-weight: 900;
+    font-weight: 800;
     margin: 0;
 }
 
